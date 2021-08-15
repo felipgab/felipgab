@@ -1,6 +1,4 @@
-### Olá, amigos 👋
-
-##
+## Hi, y'all 👋
 
 <div>
   <a href="https://github.com/fegasi">
@@ -8,6 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegasi&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-##  
+##
 
 ![Snake animation](https://github.com/fegasi/fegasi/blob/output/github-contribution-grid-snake.svg)
